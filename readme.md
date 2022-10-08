@@ -1,3 +1,3 @@
 # C@pston3 
 
-This is a training repo
+This is a training repository created for github
